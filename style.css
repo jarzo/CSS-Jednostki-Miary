@@ -12,3 +12,16 @@ html {
 #pixele{
 	width: 400px;
 }
+
+#em {
+	width: 20em;
+}
+#ex {
+	width: 20ex;
+}
+#rem {
+	width: 20rem;
+}
+vw {
+	width: 20vw;
+}
